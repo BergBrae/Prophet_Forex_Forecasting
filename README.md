@@ -1,4 +1,4 @@
-# Prophet_Forex_Forecasting
+# Prophet Forex Forecasting
 Using Facebook Prophet to forecast EURUSD forex exchange rates.
 
 Data is free from histdata.com.
